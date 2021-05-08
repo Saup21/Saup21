@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=0e75b6&style=flat" alt="Saup21" /> </p>
 <p align="center">
-<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="alt text" height="500px" width="500px">
+<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="alt text" height="300px" width="300px">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
