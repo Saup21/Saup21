@@ -1,16 +1,59 @@
-### Hi there 👋
+<h1> align="center">Hi 👋, I'm Sauparna Gupta</h1>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 
-<!--
-**Saup21/Saup21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=0e75b6&style=flat" alt="Saup21" /> </p>
+<p align="center">
+<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="alt text" height="500px" width="500px">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on Creative Projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
+<!-- - 🤔 I’m looking for help with ... 
+- 💬 Ask me about ...-->
+<!--- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/)-->
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/sauparna-gupta-0b55561b1/" target="_blank">
+  <img align="left" alt="Sauparna Gupta | Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" />
+</a>
+<a href="https://www.instagram.com/saup_21/" target="_blank">
+  <img align="left" alt="Sauparna Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://www.facebook.com/sauparna.gupta/" target="_blank">
+  <img align="left" alt="Sauparna Gupta | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+
+<br/>
+
+
+### Languages and Tools:
+
+<img align="left" alt="Atom" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />
+<img align="left" alt="Python" width="30px" src="https://i.imgur.com/gnK58k4.png">
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+<br/><br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=niloysikdar&layout=compact&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloysikdar&layout=compact&theme=react&count_private=false" />
+
+![Niloy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niloysikdar&theme=vision-friendly-dark)
