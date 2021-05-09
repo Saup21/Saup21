@@ -46,7 +46,7 @@
 <br/>
 <br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saup21&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saup21&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saup21&layout=compact&theme=react&count_private=false" />
 
