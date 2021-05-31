@@ -50,4 +50,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saup21&layout=compact&theme=react&count_private=false" />
 
-![Sauparna's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saup21&theme=vision-friendly-dark)
+<!--![Sauparna's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saup21&theme=vision-friendly-dark)-->
