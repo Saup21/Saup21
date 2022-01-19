@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sauparna Gupta</h1>
-<h3 align="center">A passionate full-stack developer from India.</h3>
+<h3 align="center">A passionate and hardworking programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=0e75b6&style=flat" alt="Saup21" /> </p>
-<p align="center">
-<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="alt text" height="300px" width="300px">
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=0e75b6&style=flat" alt="Saup21" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
