@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sauparna Gupta</h1>
 <h3 align="center">A passionate and hardworking programmer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=0e75b6&style=flat" alt="Saup21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saup21&label=Profile%20views&color=blueviolet&style=flat" alt="Saup21" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Express, Python, etc.**
+- 🌱 I’m currently learning **ReactJs, Express, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Saup21?tab=repositories)
 
