@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript** || **DSA** || **C++**
 
-- 📫 How to reach me: **sg2302@cse.jgec.ac.in**
+- 📫 How to reach me: **sauparna.gupta@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
 
