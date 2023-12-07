@@ -63,9 +63,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/sauparna-gupta/"><img src="https://img.shields.io/badge/sauparna-gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sauparna.gupta@gmail.com"><img src="https://img.shields.io/badge/-sauparna.gupta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/heisen24"><img src="https://img.shields.io/badge/-heisen24-1877F2?style=flat&logo=CodeChef&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sauparna-gupta/"><img src="https://img.shields.io/badge/sauparna-gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:sauparna.gupta@gmail.com"><img src="https://img.shields.io/badge/-sauparna.gupta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!-- ![Sauparna's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saup21&theme=algolia) -->
