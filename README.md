@@ -22,18 +22,24 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
+![Rails](https://img.shields.io/badge/Rails-E60000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 <br>
-![Netlify](https://img.shields.io/badge/-Netlify-%2300BFFF?style=for-the-badge&logo=Netlify&logoColor=%23ffffff)
+![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge&logo=amazon&logoColor=FFB380)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23CC00FF?style=for-the-badge&logo=Heroku&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0099FF?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Ruby Mine](https://img.shields.io/badge/Ruby%20Mine-181717?style=for-the-badge&logo=rubymine&logoColor=FF0000)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<br/>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Ruby Gems](https://img.shields.io/badge/Ruby%20Gems-E60000?style=for-the-badge&logo=rubygems&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0077B3?style=for-the-badge&logo=mysql&logoColor=FFAD33)
+![Postgres](https://img.shields.io/badge/Postgres-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-<br/>
 
 
 <!-- <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
