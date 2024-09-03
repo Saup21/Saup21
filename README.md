@@ -22,6 +22,7 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-004d00?style=for-the-badge&logo=django&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-E60000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 <br>
 ![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge&logo=amazon&logoColor=FFB380)
