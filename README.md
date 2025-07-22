@@ -11,7 +11,9 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
+![Rust](https://img.shields.io/badge/-Rust-CB3837?style=for-the-badge&logo=Rust&logoColor=%23ffffff&labelColor=EE3837)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=0077DD)
 ![Ruby](https://img.shields.io/badge/-Ruby-CB3837?style=for-the-badge&logo=ruby)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
